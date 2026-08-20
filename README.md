@@ -6,12 +6,6 @@
                                                                    {الله لا إله إلا هو الحي القيوم}
                                                             {إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ}
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radial" alt="Top Languages" />
-
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark" alt="GitHub Streak" />
 

@@ -7,7 +7,6 @@
                                                             {إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ}
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark" alt="GitHub Streak" />
 
 # Hi there 👋, I'm [Your Name]
 

@@ -1,4 +1,10 @@
-# ATLAS-GHOST
+
+                                                                               # ATLAS-GHOST
+# Welcome to my Profile
+
+<img src="YOUR_IMAGE_URL" width="600">
+
+
 
                                                                         ⋆💡⌇📖⌇💡⋆   
                                                                        ٨ﮩ🧠-⚡︎-🫀ﮩ٨

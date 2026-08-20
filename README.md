@@ -1,18 +1,17 @@
-
-                                                                  # ATLAS-GHOST
+# ATLAS-GHOST
 # Welcome to my Profile
 
-<img width="1672" height="941" alt="87-visual-art-(#0075eb,#296ec2)" src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59ddc462-8e31-4b12-b985-f7e487018e6f" width="100%" alt="Visual Art" />
+</p>
 
-
-
-                                                                        ⋆💡⌇📖⌇💡⋆   
-                                                                       ٨ﮩ🧠-⚡︎-🫀ﮩ٨
-                                                                     ☯--•☝️⟁☝️•--✡︎ 
-                                                                   {الله لا إله إلا هو الحي القيوم}
-                                                            {إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ}
-
-
+<p align="center">
+  ⋆💡⌇📖⌇💡⋆<br>
+  ٨ﮩ🧠-⚡︎-🫀ﮩ٨<br>
+  ☯--•☝️⟁☝️•--✡︎<br>
+  الله لا إله إلا هو الحي القيوم<br>
+  إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ
+</p>
 
 # Hi there 👋, I'm [Your Name]
 
@@ -32,15 +31,15 @@ Tech Content Creator / Developer / Open Source Enthusiast
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATLAS-GHOST&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATLAS-GHOST&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
 </p>
 
 ---
 
 ### 👷 Check out what I'm currently working on
-- **[repo-name](https://github.com/YOUR_USERNAME/repo-name)** - Brief description of project
-- **[another-repo](https://github.com/YOUR_USERNAME/another-repo)** - Brief description
+- **[wallpaper-main](https://github.com/ATLAS-GHOST/wallpaper-main)** - Personal asset & wallpaper repository
+- **[repo-name](https://github.com/ATLAS-GHOST/repo-name)** - Brief description of project
 
 ---
 

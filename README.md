@@ -1,5 +1,11 @@
 # ATLAS-GHOST
 
+                                                                        ⋆💡⌇📖⌇💡⋆   
+                                                                                                       ٨ﮩ🧠-⚡︎-🫀ﮩ٨ﮩ
+                                                                     ☯--•☝️⟁☝️•--✡︎ 
+                                                                                                  {الله لا إله إلا هو الحي القيوم}
+                                                                                           {إِنَّ شَرَّ ٱلدَّوَاۤبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِینَ لَا یَعۡقِلُونَ}
+
 # Hi there 👋, I'm [Your Name]
 
 Tech Content Creator / Developer / Open Source Enthusiast

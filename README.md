@@ -1,4 +1,4 @@
-# ATLAS-GHOST
+# MiRou-lilg
 # Welcome to my Profile
 
 <p align="center">
